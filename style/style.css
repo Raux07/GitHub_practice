@@ -16,6 +16,15 @@
     color: green;
     animation: blink 3s linear infinite;
     letter-spacing: 3rem;
+    font-size: 2rem;
+}
+
+#cmd{
+    color: red;
+    animation: blink 3s linear infinite;
+    letter-spacing: 3rem;
+    font-family: monospace;
+    font-size: 2rem;
 }
 
 @keyframes blink{
