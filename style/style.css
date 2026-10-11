@@ -15,6 +15,7 @@
     font-family: monospace;
     color: green;
     animation: blink 3s linear infinite;
+    letter-spacing: 3rem;
 }
 
 @keyframes blink{
